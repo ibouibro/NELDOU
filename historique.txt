@@ -1,0 +1,11 @@
+
+----
+FAIT :
+Modification contenu de publication : une seule image dans la base.
+02:09 18/04/2020
+Dans : salon 5 CDE Ouest Foire Dakar
+
+
+-----------
+A FAIRE  - SUIVANT :
+définir et Vérifier taille maximale image à insérer, dans le formulaire.
